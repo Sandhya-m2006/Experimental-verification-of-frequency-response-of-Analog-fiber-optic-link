@@ -1,4 +1,4 @@
-[# Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link
+# Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link
 # Experiment: Fiber Analog Link (660nm & 950nm) and Frequency Response of Phototransistor Detector
 
 ## Aim
